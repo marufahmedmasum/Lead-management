@@ -1,0 +1,7 @@
+# Development & Temporary Files
+.gemini/
+.mcp.json
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
